@@ -166,8 +166,7 @@ pip install pylint
 #
 # download the repo
 #
-wget https://github.com/afirmin/bidnamic-devops-challenge/archive/refs/heads/mastee
-r.zip
+wget https://github.com/afirmin/bidnamic-devops-challenge/archive/refs/heads/master.zip
 unzip master.zip
 
 cd bidnamic-devops-challenge-master
