@@ -173,11 +173,8 @@ cd bidnamic-devops-challenge-master
 
 source make-the-makefile.sh
 
-
-
+make
   EOUD
-
-
 
   tags = {
       Name =  "Bidnamitest-Websvr1"
